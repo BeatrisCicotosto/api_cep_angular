@@ -1,0 +1,24 @@
+
+.container {
+    max-width: 400px;
+    margin: 20px auto;
+    text-align: left;
+    font-family: Arial, sans-serif;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .erro {
+    color: red;
+    margin-top: 10px;
+  }
+  
